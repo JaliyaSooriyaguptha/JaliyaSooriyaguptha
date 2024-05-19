@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/jaliya_c_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaliya_c_s" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaliya-suriyaguptha-024bb1286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaliya suriyaguptha" height="30" width="40" /></a>
-<a href="https://fb.com/jaliya suriyaguptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaliya suriyaguptha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100079449168532&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaliya suriyaguptha" height="30" width="40" /></a>
 <a href="https://instagram.com/jaliya_c_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaliya_c_s" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
