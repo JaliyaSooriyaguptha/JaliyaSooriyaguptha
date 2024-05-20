@@ -35,8 +35,9 @@
 <br>
 <br>
 <img align="center" alt="coding" width="1000" src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaliyasooriyaguptha&show_icons=true&locale=en&layout=compact" alt="jaliyasooriyaguptha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaliyasooriyaguptha&show_icons=true&locale=en" alt="jaliyasooriyaguptha" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaliyasooriyaguptha&" alt="jaliyasooriyaguptha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaliyasooriyaguptha&" alt="jaliyasooriyaguptha" /></p>
