@@ -12,7 +12,9 @@
    [Jayatours](https://jayatour.lk/)<br>
   [Diveasa care](https://goodheartcarefoundation.com/)<br>
   [rfrma](https://rfrma.com/)
-  
+  [Humminbirg](https://hummingbirdclothing.lk/)
+  [Mesh Global](https://rfrma.com/)
+  [epicurex](https://epicurex.com.au/)
 - 🌱 I’m currently learning **Flutter,.net,Mern**
 
 - 👨‍💻 All of my projects are available at
