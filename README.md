@@ -9,7 +9,7 @@
 - 🔭 I’m Done
 - [Sithagi Construction](https://sithagiconstructions.com/)<br>
   [Earthwise Globle](https://earthwisegloble.com/) <br>
-   [Jayatours](https://jayatour.lk/)<br>
+  [Jayatours](https://jayatour.lk/)<br>
   [Diveasa care](https://goodheartcarefoundation.com/)<br>
   [rfrma](https://rfrma.com/)<br>  
   [Humminbirg](https://hummingbirdclothing.lk/)<br> 
