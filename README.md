@@ -11,10 +11,15 @@
   [Earthwise Globle](https://earthwisegloble.com/) <br>
    [Jayatours](https://jayatour.lk/)<br>
   [Diveasa care](https://goodheartcarefoundation.com/)<br>
-  [rfrma](https://rfrma.com/)
-  [Humminbirg](https://hummingbirdclothing.lk/)
-  [Mesh Global](https://rfrma.com/)
-  [epicurex](https://epicurex.com.au/)
+  [rfrma](https://rfrma.com/)<br>
+   [Jayatours](https://jayatour.lk/)<br>
+  [Humminbirg](https://hummingbirdclothing.lk/)<br>
+   [Jayatours](https://jayatour.lk/)<br>
+  [Mesh Global](https://rfrma.com/)<br>
+   [Jayatours](https://jayatour.lk/)<br>
+  [epicurex](https://epicurex.com.au/)<br>
+   [Jayatours](https://jayatour.lk/)<br>
+   
 - 🌱 I’m currently learning **Flutter,.net,Mern**
 
 - 👨‍💻 All of my projects are available at
