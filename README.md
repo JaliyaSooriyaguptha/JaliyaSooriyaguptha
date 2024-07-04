@@ -15,6 +15,10 @@
   [Humminbirg](https://hummingbirdclothing.lk/)<br> 
   [Mesh Global](https://rfrma.com/)<br>
   [epicurex](https://epicurex.com.au/)<br>
+  [Dr Rashel](https://drrashellanka.com/)<br>
+  [Afron Holding](https://afronholdings.com/)<br>
+  [Sakya Project](https://mihisarateam.lk//)<br>
+  
 
 - 🌱 I’m currently learning **Flutter,.net,Mern**
 
