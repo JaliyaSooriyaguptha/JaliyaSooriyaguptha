@@ -1,5 +1,21 @@
 ![banner](https://github.com/JaliyaSooriyaguptha/JaliyaSooriyaguptha/blob/main/api-dev-banner%402x.png)
 
+# 📊 GitHub Analytics (FIXED & STABLE)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaliyaSooriyaguptha&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaliyaSooriyaguptha&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaliyaSooriyaguptha&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Jaliya Suriyaguptha</h1>
 <h3 align="center">🚀 Full Stack Engineer | MERN • .NET • Scalable Systems</h3>
 
@@ -18,11 +34,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaliyasooriyaguptha&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/jaliyasooriyaguptha?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=JaliyaSooriyaguptha&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/JaliyaSooriyaguptha?label=Followers&style=social" />
 </p>
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ---
 
@@ -79,26 +93,10 @@
 
 ---
 
-## 📊 GitHub Analytics (FIXED & STABLE)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaliyasooriyaguptha&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaliyasooriyaguptha&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaliyasooriyaguptha&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaliyasooriyaguptha&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JaliyaSooriyaguptha&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -139,7 +137,3 @@
 
 ## 📬 Contact
 📧 **jaliyasuriyaguptha88@gmail.com**
-
----
-
-<img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif" width="100%">
