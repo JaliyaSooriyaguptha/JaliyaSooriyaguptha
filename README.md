@@ -3,15 +3,17 @@
 <h1 align="center">Hi 👋, I'm Jaliya Suriyaguptha</h1>
 <h3 align="center">🚀 Full Stack Engineer | MERN • .NET • Scalable Systems</h3>
 
+---
+
 <p align="center">
   <a href="http://jaliyasuriyaguptha.dev/">
-    <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-VISIT%20NOW-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-CLICK%20HERE-00ffcc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
 <p align="center">
   <a href="http://jaliyasuriyaguptha.dev/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Click+My+Portfolio+%F0%9F%91%87;Real+Projects+%7C+Live+Systems+%7C+Production+Apps;MERN+%7C+Next.js+%7C+.NET+Engineer;Building+Scalable+Business+Solutions" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Production+Ready+Systems;Clean+Code+%7C+Scalable+Architecture;MERN+%7C+Next.js+%7C+.NET;Turning+Ideas+Into+Real+Products" />
   </a>
 </p>
 
@@ -25,11 +27,11 @@
 ---
 
 ## 🧠 About Me
-- 💼 Associate Software Engineer (Production Systems Experience)
-- 🔥 Built multiple **live business platforms**
-- ⚡ Focused on **scalable architecture + clean UI**
-- 🌱 Learning **Next.js, .NET, Flutter**
-- 🎯 Goal: Become a **Software Architect**
+- 💼 Associate Software Engineer (Real Production Systems)
+- 🔥 Built multiple live business platforms
+- ⚡ Focused on performance + scalable architecture
+- 🌱 Learning Next.js, .NET, Flutter
+- 🎯 Goal: Software Architect
 
 ---
 
@@ -77,15 +79,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (FIXED & STABLE)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaliyasooriyaguptha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://streak-stats.demolab.com?user=jaliyasooriyaguptha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaliyasooriyaguptha&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaliyasooriyaguptha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=jaliyasooriyaguptha&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaliyasooriyaguptha&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -114,7 +119,7 @@
 
 <p align="center">
 <a href="http://jaliyasuriyaguptha.dev/">
-  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-CLICK%20HERE-00ffcc?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-OPEN%20NOW-00ffcc?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
