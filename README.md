@@ -4,8 +4,14 @@
 <h3 align="center">🚀 Full Stack Engineer | MERN • .NET • Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+Systems;Clean+Code+%2B+Performance+Focused;MERN+%7C+Next.js+%7C+.NET+Developer;Turning+Ideas+Into+Real+Products" />
+  <a href="http://jaliyasuriyaguptha.dev/">
+    <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-VISIT%20NOW-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://jaliyasuriyaguptha.dev/">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Click+My+Portfolio+%F0%9F%91%87;Real+Projects+%7C+Live+Systems+%7C+Production+Apps;MERN+%7C+Next.js+%7C+.NET+Engineer;Building+Scalable+Business+Solutions" />
   </a>
 </p>
 
@@ -14,28 +20,28 @@
   <img src="https://img.shields.io/github/followers/jaliyasooriyaguptha?label=Followers&style=social" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ---
 
 ## 🧠 About Me
-- 💼 Associate Software Engineer with real production experience  
-- 🔥 Built **multiple live systems used by real businesses**  
-- ⚡ Strong in **Full Stack Development & System Architecture**  
-- 🌱 Currently mastering **Next.js, .NET & Flutter**  
-- 🎯 Goal: Become a **Top-tier Software Architect**
+- 💼 Associate Software Engineer (Production Systems Experience)
+- 🔥 Built multiple **live business platforms**
+- ⚡ Focused on **scalable architecture + clean UI**
+- 🌱 Learning **Next.js, .NET, Flutter**
+- 🎯 Goal: Become a **Software Architect**
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,dotnet,php,laravel,mongodb,mysql,postgres,aws,firebase,linux,figma,flutter,android" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,php,laravel,mongodb,mysql,postgres,aws,firebase,linux,figma,flutter,android" />
 </p>
 
 ---
 
-## 🚀 Production Projects (Live)
+## 🚀 Live Production Projects
 
 <p align="center">
 
@@ -74,12 +80,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaliyasooriyaguptha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jaliyasooriyaguptha&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaliyasooriyaguptha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://streak-stats.demolab.com?user=jaliyasooriyaguptha&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaliyasooriyaguptha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaliyasooriyaguptha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -87,7 +93,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaliyasooriyaguptha&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaliyasooriyaguptha&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -98,13 +104,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaliyaSooriyaguptha/JaliyaSooriyaguptha/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaliyaSooriyaguptha/JaliyaSooriyaguptha/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/JaliyaSooriyaguptha/JaliyaSooriyaguptha/output/github-snake.svg">
+  <img alt="github snake" src="https://raw.githubusercontent.com/JaliyaSooriyaguptha/JaliyaSooriyaguptha/output/github-snake.svg">
 </picture>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
+<p align="center">
+<a href="http://jaliyasuriyaguptha.dev/">
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-CLICK%20HERE-00ffcc?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/jaliya-suriyaguptha-024bb1286">
