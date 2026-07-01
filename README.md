@@ -41,7 +41,7 @@
 ---
 
 ## 🧠 About Me
-- 💼 Associate Software Engineer (Real Production Systems)
+- 💼 Full Stack Engineer | MERN • .NET • Scalable Systems (Real Production Systems)
 - 🔥 Built multiple live business platforms
 - ⚡ Focused on performance + scalable architecture
 - 🌱 Learning Next.js, .NET, Flutter
